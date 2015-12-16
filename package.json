@@ -1,6 +1,6 @@
 {
   "name": "raptor-bug",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Bug filing and tracking for @mozilla/raptor",
   "keywords": [
     "firefox-os",
@@ -9,14 +9,13 @@
     "b2g",
     "bug"
   ],
-  "main": "lib/index.js",
   "author": {
     "name": "Eli Perelman",
     "email": "eli@eliperelman.com"
   },
   "bugs": {
     "url": "https://bugzilla.mozilla.org/enter_bug.cgi?product=Firefox%20OS&component=Gaia%3A%3APerformanceTest",
-    "email": "eli@mozilla.com"
+    "email": "eperelman@mozilla.com"
   },
   "config": {
     "raptor": {
@@ -37,7 +36,7 @@
       "version": "unspecified",
       "cc": [
         "eperelman@mozilla.com",
-        "gwagner@mozilla.com",
+        "anygregor@gmail.com",
         "bchien@mozilla.com"
       ],
       "contexts": {
